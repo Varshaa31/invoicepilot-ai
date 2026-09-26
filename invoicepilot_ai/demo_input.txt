@@ -1,0 +1,11 @@
+Happy path:
+Hi, I'm Priya from Acme Labs. Please invoice us for 3 landing pages and 2 logo designs. Send it to priya@acme.com. This is for our product launch.
+
+Ambiguous:
+Invoice Rahul for website development.
+
+Missing price:
+Please invoice us for 2 quantum marketing campaigns.
+
+Missing quantity:
+Hi, this is Sarah at Example Co. Please invoice us for logo design. Email sarah@example.com.

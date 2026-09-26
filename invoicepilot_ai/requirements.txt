@@ -1,0 +1,6 @@
+streamlit>=1.45
+groq>=0.30.0
+pydantic>=2.8
+pydantic[email]>=2.8
+pandas>=2.2
+reportlab>=4.2

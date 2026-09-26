@@ -1,0 +1,11 @@
+service_id,service_name,aliases,unit_price,active,unit,description
+WEB001,Landing Page,landing page|landing pages|single page website|landing-page,15000,TRUE,page,A high-converting marketing landing page
+WEB002,Corporate Website,corporate website|business website|company website|website development,40000,TRUE,project,Multi-page corporate website
+WEB003,E-commerce Website,ecommerce website|e-commerce website|online store|shop website,65000,TRUE,project,Full storefront with catalog and checkout
+SEO001,SEO Optimization,seo optimization|search optimization|search engine optimization|seo package,12000,TRUE,package,Technical and on-page SEO foundation
+SEO002,SEO Growth Package,seo growth|growth seo|seo package growth|seo growth package,25000,TRUE,package,Ongoing SEO growth program
+DES001,Logo Design,logo|logo design|brand logo,5000,TRUE,asset,Primary logo design
+DES002,Brand Identity,brand identity|branding|visual identity,18000,TRUE,package,"Logo, type, and visual system"
+SOC001,Social Media Campaign,social media campaign|social campaign|social media marketing,8000,TRUE,campaign,Campaign creative and scheduling
+CONTENT001,Blog Article,blog article|blog post|article writing,2500,TRUE,article,Long-form article for your site
+DEV001,Website Maintenance,website maintenance|site maintenance|maintenance,6000,TRUE,month,Monthly site care and updates

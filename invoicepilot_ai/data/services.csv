@@ -1,0 +1,11 @@
+service_id,service_name,aliases,unit_price,active
+WEB001,Landing Page,landing page|landing pages|single page website|landing-page,15000,TRUE
+WEB002,Corporate Website,corporate website|business website|company website,40000,TRUE
+WEB003,E-commerce Website,ecommerce website|e-commerce website|online store|shop website,65000,TRUE
+SEO001,SEO Optimization,seo|seo optimization|search optimization,12000,TRUE
+SEO002,SEO Growth Package,seo growth|growth seo|seo package growth,25000,TRUE
+DES001,Logo Design,logo|logo design|brand logo,5000,TRUE
+DES002,Brand Identity,brand identity|branding|visual identity,18000,TRUE
+SOC001,Social Media Campaign,social media campaign|social campaign|social media marketing,8000,TRUE
+CONTENT001,Blog Article,blog article|blog post|article writing,2500,TRUE
+DEV001,Website Maintenance,website maintenance|site maintenance|maintenance,6000,TRUE
