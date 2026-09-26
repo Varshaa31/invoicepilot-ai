@@ -29,3 +29,5 @@ email-validator>=2.2.0
 
 
 pwdlib[argon2]>=0.2,<1
+
+python-multipart>=0.0.9,<1
