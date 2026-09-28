@@ -33,6 +33,32 @@ but the catalog lists **Corporate Website at ₹40,000**, InvoicePilot uses the 
 The AI cannot invent or override catalog prices.
 
 ---
+## Demo Login
+
+You can use the following demo account to explore the deployed application:
+
+**Email:** `frontendtest@example.com`  
+**Password:** `TestPassword123!`
+
+### Live Demo
+
+https://invoicepilot-ai-six.vercel.app/
+
+### Demo Flow
+
+After logging in:
+
+1. Open **Service Catalog** to view the available services and prices.
+2. Open **Settings** to view company and tax configuration.
+3. Go to **Create Invoice**.
+4. Enter a customer requirement in natural language.
+5. Review the AI-extracted customer details and requested services.
+6. Resolve any missing or ambiguous services if required.
+7. Review the calculated invoice.
+8. Approve the invoice.
+9. Generate the final professional PDF invoice.
+
+> **Note:** The demo account is provided for evaluation purposes. Prices are retrieved from the Service Catalog, and AI does not generate or invent service prices.
 
 ## Key Features
 
